@@ -30,4 +30,7 @@ How to run:
     4. Launch Dashboard
 
     streamlit run dashboard/app.py
+
+   ![image](https://github.com/user-attachments/assets/d8ea3625-cf0b-4970-954c-870e526a8373)
+
     
